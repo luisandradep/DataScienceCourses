@@ -1,0 +1,2 @@
+Create new file from Git command and editing in Notepad
+Then copy to GitHub by Git command
